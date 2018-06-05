@@ -4,10 +4,12 @@
 - Fix the component to work with v-model
 
 # Custom Directive (folder: CustomDirective)
+
 - Create a custom directive hc-hidden that will hide the element
 - Create a custom directive hc-if that will remove/add the element based on a boolean
 
 # Render Props (folder: RenderProps)
+
 - Create a render props to fetch Github API an render it (GithubUser.vue)
 - Create a render props wrapper to Axios/Fetch GET (AxiosGet.vue)
 - Rewrite GithubUser using AxiosGet
@@ -22,6 +24,7 @@
 
 # Typescript
 
+- Open the hackflix-vue project that you worked yesterday
 - Setup typescript in the repo
 - Migrate my component to typescript using Vue.extend
 - Migrate my component to typescript using class-syntax
